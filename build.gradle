@@ -3,6 +3,7 @@
 buildscript {
     repositories {
         jcenter("test")
+jcenter("test goback")
 
     }
     dependencies {
