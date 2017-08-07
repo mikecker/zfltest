@@ -3,11 +3,9 @@
 buildscript {
     repositories {
         jcenter("test")
-<<<<<<< HEAD
 jcenter("test goback")
 jcenter("test")
-=======
->>>>>>> parent of e8c03c3... b4
+
 
     }
     dependencies {
