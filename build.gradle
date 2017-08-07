@@ -2,7 +2,8 @@
 
 buildscript {
     repositories {
-        jcenter(°∞≤‚ ‘°±)
+        jcenter(°∞≤‚ ‘1°±)
+        jcenter(°∞≤‚ ‘2°±)
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.3.1'
