@@ -2,8 +2,12 @@
 
 buildscript {
     repositories {
+<<<<<<< HEAD
         jcenter(¡°²âÊÔ1¡±)
         jcenter(¡°²âÊÔ2¡±)
+=======
+        jcenter("test")
+>>>>>>> T2back
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.3.1'
