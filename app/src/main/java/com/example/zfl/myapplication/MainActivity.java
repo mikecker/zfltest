@@ -14,10 +14,12 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void dotest(View view){
-    String s1="字符串1";
-    String s2="字符串2";
- Log.d("xxx",s2);
+        String s1="字符串1";
+        String s2="字符串2";
+        String s2="字符串3";
+        Log.d("xxx",s2);
         Toast.makeText(this,"测试",Toast.LENGTH_SHORT).show();
          Log.d("xxx",s1);
+          Log.d("xxx",s3);
     }
 }
