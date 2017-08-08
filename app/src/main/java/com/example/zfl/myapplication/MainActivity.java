@@ -1,4 +1,4 @@
-package com.example.zfl.myapplication;
+﻿package com.example.zfl.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
     }
     public void dotest(View view){
     String s1="字符串1";
+    String s2="字符串2";
+ Log.d("xxx",s2);
         Toast.makeText(this,"测试",Toast.LENGTH_SHORT).show();
          Log.d("xxx",s1);
     }
