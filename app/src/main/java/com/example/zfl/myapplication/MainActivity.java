@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void dotest(View view){
+    String s1="字符串1";
         Toast.makeText(this,"测试",Toast.LENGTH_SHORT).show();
+         Log.d("xxx",s1);
     }
 }
